@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">layouts</string>
+    <string name="hello_world1">Hello World1!</string>
+    <string name="hello_world2">Hello world2</string>
+    <string name="hello_world3">Hello World3</string>
+    <string name="hello_world4" />
+    <string name="hello_world5" />
+    <string name="hello_world41">Hello World4</string>
+    <string name="hello_world55">Hello World5</string>
+
+    <string name="back">Back</string>
+    <string name="hello1">Hello1</string>
+    <string name="hello2">Hello2</string>
+    <string name="hello3">Hello3</string>
+    <string name="hello4">Hello4</string>
+    <string name="hello5">Hello5</string>
+
+    <string name="page3hello5">page3hello5</string>
+    <string name="page3hello4">page3hello4</string>
+    <string name="page3hello3">page3hello3</string>
+    <string name="page3hello2">page3hello2</string>
+    <string name="page3hello1">page3hello1</string>
+    <string name="page2hello5">page2hello5</string>
+    <string name="page2hello4">page2hello4</string>
+    <string name="page2hello3">page2hello3</string>
+    <string name="page2hello2">page2hello2</string>
+    <string name="page2hello1">page2hello1</string>
+    <string name="next">Next</string>
+</resources>
